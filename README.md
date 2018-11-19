@@ -9,6 +9,6 @@ newsystemmanage 8083  //设备数据管理平台接口<br/>
 boilermanage    8084  //客户数据管理平台接口<br/>
 map             8085  //旧客户端map服务接口<br/>
 auto-update     8086  //旧客户端升级程序<br/>
-dataoutput      8087  //对外数据访问接口<br/>
+dataoutput      8087  //对外数据访问接口（主要提供APP使用）<br/>
 website         9000  //公司网站<br/>
 
